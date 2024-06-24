@@ -24,9 +24,6 @@ Abra o arquivo index.html em seu navegador da web.
 
 Agora você deverá ver o carrossel de imagens funcionando na página.
 
-## Recursos
-Owl Carousel: Site oficial do Owl Carousel com documentação completa e exemplos.
-
 ## Contribuições
 Se você quiser contribuir com este projeto, sinta-se à vontade para abrir uma issue ou enviar uma pull request.
 
